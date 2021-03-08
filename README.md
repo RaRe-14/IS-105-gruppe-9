@@ -1,2 +1,1 @@
-Henrik Nordengen Rødsdalen
-Bjørnar Sømme
+NORA FURE
