@@ -1,1 +1,1 @@
-gfdsjafhodasfoia
+Bjørnar Sømme
