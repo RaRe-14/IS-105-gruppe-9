@@ -9,7 +9,7 @@ int main()
   
     // Parent process 
     if (child_pid > 0)
-        sleep(10);
+        sleep(50);
   
     // Child process
     else        
