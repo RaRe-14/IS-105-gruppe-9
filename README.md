@@ -1,1 +1,6 @@
-gfdsjafhodasfoia
+- Oda Aga
+- NORA FURE
+- Henrik Nordengen Rødsdalen
+- Bjørnar Sømme
+- Kevin Rasmussen 
+- Runa Røstad Jensen
